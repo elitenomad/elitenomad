@@ -23,7 +23,7 @@ I run [rails-stripe-recipes](https://github.com/elitenomad/rails-stripe-recipes)
 
 - **Printspeak** · Lead Software Engineer / Engineering Lead · 2022–present
 
-  Deliver high-availability CRM products for the printing and shipping industries, working closely with the CEO and CTO, and act as primary technical contact for product integrations. Re-architected ETL pipelines to pub/sub with the CTO and designed the service API layer used by external teams. Lead an offshore engineering team and mentor junior engineers.
+  Deliver high-availability CRM products for the printing and shipping industries, working closely with the CEO and CTO. Lead integration projects and serve as the primary technical contact across multiple products. Designed the service API layer used by external teams. Mentor junior engineers through pairing and code review.
 
 - **Author** · *Stripe + Ruby on Rails Implementation* · in progress
 
