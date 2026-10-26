@@ -13,7 +13,7 @@ I run [rails-stripe-recipes](https://github.com/elitenomad/rails-stripe-recipes)
 - **Full-stack product engineering:** Ruby on Rails and Go services with React and TypeScript frontends
 - **Customer and partner integrations:** service APIs for external teams, client onboarding, and proofs of concept for client evaluation
 - **Data pipelines:** ETL ingestion, with pub/sub delivery for time-sensitive data
-- **Multi-tenant SaaS:** platforms built on PostgreSQL, MySQL, Redis and DynamoDB
+- **Multi-tenant applications:** one platform serving many customers or regional markets, built on Ruby, Rails, PostgreSQL and Redis
 - **Cloud infrastructure:** AWS with Terraform, ECS and Docker, including cloud migrations
 - **CI/CD and quality:** CircleCI and GitHub Actions pipelines backed by integration, unit and end-to-end tests
 - **Payments:** Stripe billing in Ruby on Rails, written up in [Modern Payments with Ruby on Rails](https://elitenomad.github.io/modern-payments/)
