@@ -2,7 +2,7 @@
 
 I'm a full-stack engineer and engineering lead at [Printspeak](https://github.com/printspeak) in Sydney, building CRM products for printing and shipping companies.
 
-I've built full-stack products since 2014: Rails and Go on the backend, React and TypeScript on the frontend, Python where it fits, mostly on AWS and mostly at startups. The part I enjoy most faces the customer: building the integration, proving it with a prototype they can try, and staying until it runs in production. That's why I'm moving into forward-deployed engineering, where owning the whole stack is the job.
+I've built full-stack products since 2014, mostly at startups: Ruby on Rails on the backend, React and TypeScript on the frontend, PostgreSQL for data, and AWS with Terraform and Docker underneath. Within those products I've also written Go and Python for API and service layers. The part I enjoy most faces the customer: building the integration, proving it with a prototype they can try, and staying until it runs in production. That's why I'm moving into forward-deployed engineering, where owning the whole stack is the job.
 
 <!-- After the flagship launches, uncomment:
 I run [rails-stripe-recipes](https://github.com/elitenomad/rails-stripe-recipes), where every Stripe pattern is a Rails app you can run in three commands.
@@ -10,14 +10,14 @@ I run [rails-stripe-recipes](https://github.com/elitenomad/rails-stripe-recipes)
 
 ## What I work on
 
-- **Full-stack product engineering:** Ruby on Rails and Go services with React and TypeScript frontends
+- **Full-stack product engineering:** Ruby on Rails backends with React and TypeScript frontends
 - **Customer and partner integrations:** service APIs for external teams, client onboarding, and proofs of concept for client evaluation
 - **Data pipelines:** ETL ingestion, with pub/sub delivery for time-sensitive data
 - **Multi-tenant applications:** one platform serving many customers or regional markets, built on Ruby, Rails, PostgreSQL and Redis
 - **Cloud infrastructure:** AWS with Terraform, ECS and Docker, including cloud migrations
 - **CI/CD and quality:** CircleCI and GitHub Actions pipelines backed by integration, unit and end-to-end tests
 - **Payments:** Stripe billing in Ruby on Rails, written up in [Modern Payments with Ruby on Rails](https://elitenomad.github.io/modern-payments/)
-- **Applied AI:** LLM-powered applications in Go and TypeScript, such as [flashcards](https://github.com/elitenomad/flashcards)
+- **Applied AI:** exploring LLM integrations, starting with experiments such as [flashcards](https://github.com/elitenomad/flashcards)
 
 ## About me
 
