@@ -2,7 +2,7 @@
 
 I'm a full-stack engineer and engineering lead at [Printspeak](https://github.com/printspeak) in Sydney, building CRM products for printing and shipping companies.
 
-I've built full-stack products since 2014, mostly at startups: Ruby on Rails on the backend, React and TypeScript on the frontend, PostgreSQL for data, and AWS with Terraform and Docker underneath. Within those products I've also written Go and Python for API and service layers. The part I enjoy most faces the customer: building the integration, proving it with a prototype they can try, and staying until it runs in production. That's why I'm moving into forward-deployed engineering, where owning the whole stack is the job.
+I've built full-stack products since 2014, mostly at startups: Ruby on Rails on the backend, React and TypeScript on the frontend, PostgreSQL for data, and AWS with Terraform and Docker underneath. Within those products I've also written Go and Python for API and service layers. I'm not tied to any one language or framework, and I pick up whatever stack a team or customer already runs. The part I enjoy most faces the customer: building the integration, proving it with a prototype they can try, and staying until it runs in production. That's why I'm moving into forward-deployed engineering, where owning the whole stack is the job.
 
 <!-- After the flagship launches, uncomment:
 I run [rails-stripe-recipes](https://github.com/elitenomad/rails-stripe-recipes), where every Stripe pattern is a Rails app you can run in three commands.
