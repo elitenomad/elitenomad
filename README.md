@@ -10,26 +10,47 @@ I run [rails-stripe-recipes](https://github.com/elitenomad/rails-stripe-recipes)
 
 ## What I work on
 
-- **Full-stack web apps:** Rails and Go backends, React and TypeScript frontends
-- **Customer integrations:** APIs that external teams build on, onboarding flows, proofs of concept that clients can try
-- **Event-driven systems:** replacing batch ETL jobs with pub-sub
-- **Multi-tenant SaaS** on Postgres, MySQL, Redis and DynamoDB
-- **AWS:** Terraform, ECS, Docker, and one Azure-to-AWS migration
-- **Delivery:** CircleCI and GitHub Actions pipelines, with integration, Jest and end-to-end tests
-- **Payments:** Stripe in Rails, the subject of my book
-- **LLM apps** in Go and TypeScript, like [flashcards](https://github.com/elitenomad/flashcards)
+- **Full-stack product engineering:** Ruby on Rails and Go services with React and TypeScript frontends
+- **Customer and partner integrations:** service APIs for external teams, client onboarding, and proofs of concept for client evaluation
+- **Event-driven architecture:** migrating batch ETL pipelines to pub/sub messaging
+- **Multi-tenant SaaS:** platforms built on PostgreSQL, MySQL, Redis and DynamoDB
+- **Cloud infrastructure:** AWS with Terraform, ECS and Docker, including cloud migrations
+- **CI/CD and quality:** CircleCI and GitHub Actions pipelines backed by integration, unit and end-to-end tests
+- **Payments:** Stripe billing in Ruby on Rails, the subject of my upcoming book
+- **Applied AI:** LLM-powered applications in Go and TypeScript, such as [flashcards](https://github.com/elitenomad/flashcards)
 
 ## About me
 
-- **Printspeak** (2022–now), Lead Software Engineer / Engineering Lead: I work with the CEO and CTO on the CRM products, I'm the main contact for product integrations, I moved ETL to pub-sub with the CTO, I built the API layer external teams integrate with, and I lead an offshore team
-- **Writing:** *Stripe + Ruby on Rails Implementation* (in progress)
-- **Beamtree** (2021–22), Senior Software Engineer: CircleCI pipelines cut delivery time from weeks to hours; proofs of concept on AWS that I demoed to clients
-- **Faethm.AI** (2020–21, contract): cut client onboarding from days to minutes, raised frontend test coverage from 0% to 80%, and moved the platform from Azure to AWS with Terraform
-- **Innowell** (2019–20), Senior Software Engineer: worked with researchers and clinicians on proofs of concept, and built a cloud function clinicians use to export patient data as PDFs
-- **Fairfax Media** (2014–2018), Senior Software Engineer, then Technical Team Lead: built [agtrader.com.au](https://www.agtrader.com.au) from scratch for Australia and New Zealand, then moved the team's apps onto AWS ECS and Docker
-- **Side project:** [LifeMeasure](https://www.lifemeasure.com), built with a colleague, lets parents compare their child's growth with children of the same age; most users are in the US, UK and Australia
-- **Before software:** support engineer at IBM and HP in Bangalore (2008–2013)
+- **Printspeak** · Lead Software Engineer / Engineering Lead · 2022–present
+
+  Deliver high-availability CRM products for the printing and shipping industries, working closely with the CEO and CTO, and act as primary technical contact for product integrations. Re-architected ETL pipelines to pub/sub with the CTO and designed the service API layer used by external teams. Lead an offshore engineering team and mentor junior engineers.
+
+- **Author** · *Stripe + Ruby on Rails Implementation* · in progress
+
+  A book on implementing Stripe payments in Ruby on Rails applications.
+
+- **Beamtree** · Senior Software Engineer · 2021–2022
+
+  Built CircleCI deployment pipelines that cut delivery time from weeks to hours. Developed proofs of concept on AWS and presented them to clients.
+
+- **Faethm.AI** · Senior Software Engineer (contract) · 2020–2021
+
+  Designed and built client onboarding that reduced onboarding time from days to minutes. Raised frontend test coverage from 0% to 80% by introducing Jest and React Testing Library. Migrated the platform from Azure to AWS, provisioning its environments with Terraform.
+
+- **Innowell** · Senior Software Engineer · 2019–2020
+
+  Worked with researchers and clinicians to build proofs of concept for clinical research agencies. Delivered a cloud function that lets clinicians export patient data from multiple devices as PDF reports.
+
+- **Fairfax Media** · Senior Software Engineer, then Technical Team Lead · 2014–2018
+
+  Built [agtrader.com.au](https://www.agtrader.com.au), a greenfield multi-tenant classifieds platform for Australia and New Zealand. As Technical Team Lead, worked with DevOps to move the team's applications to AWS, owning their containerisation with Docker on ECS.
+
+- **[LifeMeasure](https://www.lifemeasure.com)** · Side project · 2016–2021
+
+  Built with a colleague: a multi-tenant platform that helps parents track their child's growth against children of the same age, used mainly in the US, UK and Australia.
+
+- **IBM and Hewlett Packard Enterprise** · Support Engineer · Bangalore · 2008–2013
 
 ## Get in touch
 
-Happy to talk about Ruby, Go, AWS, startups or forward-deployed engineering: [stalin.pranava@gmail.com](mailto:stalin.pranava@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pranava-s-balugari-ab7b5879/) · [X](https://x.com/Pranava_Swaroop) · [dev.to](https://dev.to/elitenomad)
+Happy to talk about startups and engineering: [stalin.pranava@gmail.com](mailto:stalin.pranava@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pranava-s-balugari-ab7b5879/) · [X](https://x.com/Pranava_Swaroop) · [dev.to](https://dev.to/elitenomad)
