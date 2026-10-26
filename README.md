@@ -47,7 +47,7 @@ I run [rails-stripe-recipes](https://github.com/elitenomad/rails-stripe-recipes)
 
 - **[LifeMeasure](https://www.lifemeasure.com)** · Side project · 2016–2021
 
-  Built with a colleague: a multi-tenant platform that helps parents track their child's growth against children of the same age, used mainly in the US, UK and Australia.
+  Built a multi-tenant platform that helps parents track their child's growth against children of the same age, used mainly in the US, UK and Australia.
 
 - **IBM and Hewlett Packard Enterprise** · Support Engineer · Bangalore · 2008–2013
 
