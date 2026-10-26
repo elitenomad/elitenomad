@@ -12,7 +12,7 @@ I run [rails-stripe-recipes](https://github.com/elitenomad/rails-stripe-recipes)
 
 - **Full-stack product engineering:** Ruby on Rails and Go services with React and TypeScript frontends
 - **Customer and partner integrations:** service APIs for external teams, client onboarding, and proofs of concept for client evaluation
-- **Event-driven architecture:** migrating batch ETL pipelines to pub/sub messaging
+- **Data pipelines:** ETL ingestion, with pub/sub delivery for time-sensitive data
 - **Multi-tenant SaaS:** platforms built on PostgreSQL, MySQL, Redis and DynamoDB
 - **Cloud infrastructure:** AWS with Terraform, ECS and Docker, including cloud migrations
 - **CI/CD and quality:** CircleCI and GitHub Actions pipelines backed by integration, unit and end-to-end tests
@@ -27,7 +27,7 @@ I run [rails-stripe-recipes](https://github.com/elitenomad/rails-stripe-recipes)
 
 - **Beamtree** · Senior Software Engineer · 2021–2022
 
-  Built CircleCI deployment pipelines that cut delivery time from weeks to hours. Developed proofs of concept on AWS and presented them to clients.
+  Built ETL pipelines for a hospital data platform, ingesting electronic medical records (EMRs) and publishing them to downstream systems under agreed data contracts. Gradually moved the highest-frequency records to a pub/sub model, so downstream systems received data sooner. Built CircleCI deployment pipelines that cut delivery time from weeks to hours, and developed proofs of concept for client presentations.
 
 - **Faethm.AI** · Senior Software Engineer (contract) · 2020–2021
 
