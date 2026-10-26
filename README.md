@@ -53,4 +53,4 @@ I run [rails-stripe-recipes](https://github.com/elitenomad/rails-stripe-recipes)
 
 ## Get in touch
 
-Happy to talk about startups and engineering: [stalin.pranava@gmail.com](mailto:stalin.pranava@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pranava-s-balugari-ab7b5879/) · [X](https://x.com/Pranava_Swaroop) · [dev.to](https://dev.to/elitenomad)
+Most of my work lives in private company repositories. I'm glad to talk about the problems I've solved and how I approached them, or about startups and engineering in general: [stalin.pranava@gmail.com](mailto:stalin.pranava@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pranava-s-balugari-ab7b5879/) · [X](https://x.com/Pranava_Swaroop) · [dev.to](https://dev.to/elitenomad)
