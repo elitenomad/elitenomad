@@ -16,7 +16,7 @@ I run [rails-stripe-recipes](https://github.com/elitenomad/rails-stripe-recipes)
 - **Multi-tenant SaaS:** platforms built on PostgreSQL, MySQL, Redis and DynamoDB
 - **Cloud infrastructure:** AWS with Terraform, ECS and Docker, including cloud migrations
 - **CI/CD and quality:** CircleCI and GitHub Actions pipelines backed by integration, unit and end-to-end tests
-- **Payments:** Stripe billing in Ruby on Rails, the subject of my upcoming book
+- **Payments:** Stripe billing in Ruby on Rails, written up in [Modern Payments with Ruby on Rails](https://elitenomad.github.io/modern-payments/)
 - **Applied AI:** LLM-powered applications in Go and TypeScript, such as [flashcards](https://github.com/elitenomad/flashcards)
 
 ## About me
@@ -24,10 +24,6 @@ I run [rails-stripe-recipes](https://github.com/elitenomad/rails-stripe-recipes)
 - **Printspeak** · Lead Software Engineer / Engineering Lead · 2022–present
 
   Deliver high-availability CRM products for the printing and shipping industries, working closely with the CEO and CTO. Lead integration projects and serve as the primary technical contact across multiple products. Designed the service API layer used by external teams. Mentor junior engineers through pairing and code review.
-
-- **Author** · *Stripe + Ruby on Rails Implementation* · in progress
-
-  A book on implementing Stripe payments in Ruby on Rails applications.
 
 - **Beamtree** · Senior Software Engineer · 2021–2022
 
@@ -44,6 +40,10 @@ I run [rails-stripe-recipes](https://github.com/elitenomad/rails-stripe-recipes)
 - **Fairfax Media** · Senior Software Engineer, then Technical Team Lead · 2014–2018
 
   Built [agtrader.com.au](https://www.agtrader.com.au), a greenfield multi-tenant classifieds platform for Australia and New Zealand. As Technical Team Lead, worked with DevOps to move the team's applications to AWS, owning their containerisation with Docker on ECS.
+
+- **[Modern Payments with Ruby on Rails](https://elitenomad.github.io/modern-payments/)** · Live guide · Always in progress
+
+  Free, open notes on implementing Stripe payments in Rails, drawn from hands-on work in production. Updated as I learn.
 
 - **[LifeMeasure](https://www.lifemeasure.com)** · Side project · 2016–2021
 
